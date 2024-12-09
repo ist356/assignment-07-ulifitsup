@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In this assignment I learned how to scrappe a website more, and it is a different approach to what I usually did in the past. I have never tried tp directly scrape things from raw html, in the past I tend to use pyspider and or etc. But they all built from scrapping the raw HTML files, and learning it surely helps me understand more about it.
